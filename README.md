@@ -4,11 +4,11 @@ A lightweight Python ORM focused on DQL (Data Query Language) operations, provid
 
 ## Features
 
-**Simple and Intuitive API**: Build and execute SQL queries using a Pythonic interface.
-**Advanced Filtering**: Support for a variety of lookup conditions (gt, gte, lt, lte, ne, in, nin, like, nlike, is).
-**Joins**: Easily perform joins between tables.
-**Ordering and Grouping**: Order and group query results.
-**Limit and Offset**: Support for pagination.
+- **Simple and Intuitive API**: Build and execute SQL queries using a Pythonic interface.
+- **Advanced Filtering**: Support for a variety of lookup conditions (gt, gte, lt, lte, ne, in, nin, like, nlike, is).
+- **Joins**: Easily perform joins between tables.
+- **Ordering and Grouping**: Order and group query results.
+- **Limit and Offset**: Support for pagination.
 
 ## Usage
 
